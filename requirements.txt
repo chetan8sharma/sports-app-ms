@@ -1,0 +1,9 @@
+django
+djangorestframework
+opencv-python-headless==4.12.0.88
+numpy
+scipy
+PyJWT
+python-dotenv
+django-cors-headers
+mediapipe==0.10.14
